@@ -1,0 +1,25 @@
+<table class="table topics">
+  		<tr>
+  			<th><img src="images/icon-category.png"> Categoria 1</th>
+  			<th>Tópicos</th>
+  			<th>Posts</th>
+  			<th>Última Publicação</th>
+  		</tr>
+  		<tr>
+  			<td>
+  				<div class="media">
+  					<img class="mr-3 read" src="images/icon-message.png">
+  					<div class="media-body">
+  						<label>Your first forum<br> <span class="small">Description of your first forum</span></label>
+  						
+
+  					</div>
+  				</div>
+  			</td>
+  			<td>1</td>
+  			<td>1</td>
+			<td><span class="title">Bem vindo ao Fórum</span>
+				<br> por <span class="type-admin">admin</span>
+				<br><span class="small">2 dias atrás</span></td>
+  		</tr>
+  	</table>
